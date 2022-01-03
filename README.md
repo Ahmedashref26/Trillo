@@ -1,7 +1,34 @@
+<div align="center" id="top"> 
+  <img src="img/logo.png" alt="logo" width="120" />
+</div>
+
+<hr>
+<br>
+
 # Trillo
 
 ## About Trillo
 
-### Your all-in-one booking app
+Your all-in-one booking app.
 
-Trillo is a mockup booking app for a travel website which uses advanced HTML and CSS for it's development. It was designed by Jonas Schmedtmann for the purpose of concentrating on the use of Flexbox in positioning sections and elements on a page.
+Trillo is a mockup of static booking site for a travel website which uses advanced HTML and CSS for it's development.
+
+
+---
+## Quick start
+
+Clone the Project
+
+```bash
+git clone https://github.com/Ahmedashref26/Trillo.git
+```
+
+---
+
+[![Trillo](img/p1.png)](img/p1.png)
+
+---
+
+## License
+
+MIT
